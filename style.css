@@ -19,7 +19,7 @@ body {
 }
 
 
- li{
+ li {
     text-transform: uppercase;
     font-weight: 700;
     list-style: none;
@@ -27,7 +27,7 @@ body {
     
 
 }
-ul a{
+ul a {
     text-decoration: none;
     color: #fff;
     padding: 20px 20px;
@@ -35,13 +35,13 @@ ul a{
     margin: 0;
     
 }
-ul a:hover{
+ul a:hover {
     color: #007abd;
     background: #fff;
     transition:linear 0.5s;
  
 }
-li{
+li {
     padding: 20px 0;
     
 }
