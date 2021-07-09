@@ -17,11 +17,10 @@
 * BOOTSTRAP
 
 # LICENCE
-# <img src="/home/moringa/Documents/moringa-prep-projects/portfolio/images/number1.png">
-#  <img src="/home/moringa/Documents/moringa-prep-projects/portfolio/images/number2.png">
-#  <img src="/home/moringa/Documents/moringa-prep-projects/portfolio/images/number3.png">
-#  <img src="/home/moringa/Documents/moringa-prep-projects/portfolio/images/numer4.png">
-
+<img src="./images/number1.png" alt="intro page">
+<img src="./images/number2.png" alt="skill page">
+<img src="./images/number3.png" alt="projects page">
+<img src="./images/numer4.png" alt="handles page">
 
 
 # &copy;2021 Nick Otieno.
