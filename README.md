@@ -17,10 +17,10 @@
 * BOOTSTRAP
 
 # LICENCE
-###  <img src="./images/number1.jpg" height="300" width="400">
-###  <img src="./images/number2.jpg" height="300" width="400">
-###  <img src="./images/number3.jpg" height="300" width="400">
-###  <img src="./images/number4.jpg" height="300" width="400">
+###  <img src="/home/moringa/Documents/moringa-prep-projects/portfolio/images/number1.png" height="300" width="400">
+###  <img src="/home/moringa/Documents/moringa-prep-projects/portfolio/images/number2.png" height="300" width="400">
+###  <img src="/home/moringa/Documents/moringa-prep-projects/portfolio/images/number3.png" height="300" width="400">
+###  <img src="/home/moringa/Documents/moringa-prep-projects/portfolio/images/numer4.png" height="300" width="400">
 
 
 
