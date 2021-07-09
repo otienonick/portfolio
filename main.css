@@ -29,3 +29,30 @@ body{
         box-shadow: 0 0 5px #007abd;
 
     }
+ #skills{
+     text-align: center;
+     margin: 5% 0;
+     text-decoration: underline;
+     color: #007abd;
+ }
+.container2{
+    display: flex;
+    justify-content: space-around;
+ 
+}
+.container2 h2{
+    color: #007abd;
+}
+.my-bars1{
+    width: 40%;
+}
+.my-bars2{
+    width: 40%;
+}
+.box-bars{
+    box-shadow: 0 0 5px #007abd;
+}
+
+
+
+
