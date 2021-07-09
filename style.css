@@ -65,6 +65,9 @@ li{
     margin: 5%;
 
 }
+.portFolio strong{
+    color: #000;
+}
 
 .portFolio p{
     font-size: 3rem;
