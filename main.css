@@ -149,13 +149,22 @@ button a{
     width: 50%;
     text-align: center;
     margin-top: 5%;
-    background-color: #007abc;
 }
 .my-handles img{
     padding: 0 20px;
 }
 .contacts{
     display: flex;
+    justify-content: space-around;
+}
+.container4 p{
+    font-size: 1.2rem;
+}
+.container4{
+    display: flex;
+    background: #007ABD;
+    color: #fff;
+    margin-top: 5%;
     justify-content: space-around;
 }
 
