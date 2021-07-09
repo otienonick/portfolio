@@ -150,12 +150,21 @@ button a{
     text-align: center;
     margin-top: 5%;
 }
+.my-handles h3{
+    padding: 2% 0;
+}
+
 .my-handles img{
-    padding: 0 20px;
+    padding:  30px 20px ;
 }
 .contacts{
     display: flex;
     justify-content: space-around;
+    margin-top: 3%;
+    
+}
+.contacts p{
+    word-spacing:50%;
 }
 .container4 p{
     font-size: 1.2rem;
@@ -170,6 +179,8 @@ button a{
 .foot1{
     width: 50%;
     text-align: center;
+    padding: 5% 0;
 }
+
 
 
