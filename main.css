@@ -19,12 +19,15 @@ body{
     justify-content: center;
  
     }
+    .container1 em{
+        color: #007abd;
+    }
     .paragraphs{
         width: 40%;
     }
     .photo-2{
         width: 80%;
-        margin: 10% 10%;
+        margin: 12% 6%;
         border: 15px solid white;
         box-shadow: 0 0 5px #007abd;
 
@@ -50,9 +53,98 @@ body{
     width: 40%;
 }
 .box-bars{
-    box-shadow: 0 0 5px #007abd;
+    box-shadow: 0 0 5px;
+}
+.progress1{
+    margin: 5% 0;
 }
 
+#projects{
+    text-align: center;
+    margin: 5% 0;
+    text-decoration: underline;
+    color: #007abd;
+}
+.images1 img{
+    width: 100%;
+}
+.images1 {
+    text-align: center;
+    border: 10px solid  #fff;
+    width: 40%;
+    box-shadow: 0 0 5px #007abc;
+}
+.images2 {
+    width: 40%;
+    text-align: center;
+    border: 10px solid  #fff;
+    box-shadow: 0 0 5px #007abc;
+}
+.images2 img{
+    width: 100%;
+}
+.images3 {
+    width: 40%;
+    text-align: center;
+    border: 10px solid  #fff;
+    box-shadow: 0 0 5px #007abc;
+}
+
+.images3 img{
+    width: 100%;
+}
+.images4 {
+    width: 40%;
+    text-align: center;
+    border: 10px solid  #fff;
+    box-shadow: 0 0 5px #007abc;
+}
+.images4 img{
+    width: 100%;
+}
+.lot1{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+}
+.lot2{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+}
+button{
+    padding: 10px 20px;
+border-radius: 5px;
+border: none;
+background: #007ABD;
+text-transform: uppercase;
+font-family: 'Zilla Slab', serif;
+font-weight: 600;
+cursor: pointer;
+
+}
+
+
+button a{
+    text-decoration: none;
+    color: #fff;
+}
+.images1 a:hover{
+    color: #fff !important;
+}
+
+.images2 a:hover{
+    color: #fff !important;
+}
+
+.images3 a:hover{
+    color: #fff !important;
+}
+
+
+.images4 a:hover{
+    color: #fff !important;
+}
 
 
 
