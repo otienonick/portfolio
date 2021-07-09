@@ -1,0 +1,115 @@
+
+
+body {
+    font-family: 'Zilla Slab', serif;
+    margin: 0;
+
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.items-transit{
+    width: 20%;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    background-color: #007ABD;
+    text-align: center;
+    
+}
+
+
+ li{
+    text-transform: uppercase;
+    font-weight: 700;
+    list-style: none;
+    font-size: 1.5rem;
+    
+
+}
+ul a{
+    text-decoration: none;
+    color: #fff;
+    padding: 20px 20px;
+    align-items: center;
+    margin: 0;
+    
+}
+ul a:hover{
+    color: #007abd;
+    background: #fff;
+    transition:linear 0.5s;
+ 
+}
+li{
+    padding: 20px 0;
+    
+}
+.dollar{
+    width: 50%;
+    border-radius: 100%;
+    box-shadow: 0 0  5px   #007ABD;
+    border: 10px solid #fff;
+}
+.portFolio{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.portFolio h2{
+    font-size: 2.5rem;
+    padding: 5px 10px;
+    box-shadow: 0 0 3px #007abd;
+    color: #007abd;
+    text-align: center;
+    margin: 5%;
+
+}
+
+.portFolio p{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #007abd;
+    text-align: center;
+}
+strong{
+    color: black;
+    font-size: 5rem;
+}
+.handles{
+    padding: 0 10px;
+    
+}
+.btn{
+    position: absolute;
+    right: 10%;
+    bottom: 10%;
+}
+/* button{
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: none;
+    background: #007ABD;
+    font-size: 1.5rem;
+    animation: 3s slidein;
+    text-transform: uppercase;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 600;
+    transition: ease-out 2s;
+}
+button a{
+    color: #fff;
+    text-decoration: none;
+} */
+@keyframes slidein{
+    from{margin-left:100%;}
+    to{margin-left:0%}
+}
+/* button:active{
+    
+    transform: scale(1.1);
+}
+  */
