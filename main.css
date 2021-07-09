@@ -172,15 +172,26 @@ button a{
     color: #fff;
     margin-top: 5%;
     justify-content: space-around;
+    width: 100%;
 }
 .foot1{
     width: 50%;
     text-align: center;
     padding: 5% 0;
 }
-.last-foot{
-    width: 100% !important ;
+.upbutton {
+    position: fixed;
+    width: 3%;
+    background-color:#007ABD;
+    border-radius: 50%;
+    bottom:3% ;
+    right: 1%;
+    text-align: center;
+    line-height: 40px;
+    box-shadow: 0 0 5px white;
+    
+    
 }
-
-
-
+html{
+    scroll-behavior: smooth;
+}
