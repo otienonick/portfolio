@@ -17,10 +17,11 @@
 * BOOTSTRAP
 
 # LICENCE
-###  <IMG SRC="./images/number1.png  height="300" width="400">
-###  <IMG SRC="./images/number2.png  height="300" width="400">
-###  <IMG SRC="./images/number3.png  height="300" width="400">
-###  <IMG SRC="./images/number4.png  height="300" width="400">
+###  <img src="./images/number1.jpg" height="300" width="400">
+###  <img src="./images/number2.jpg" height="300" width="400">
+###  <img src="./images/number3.jpg" height="300" width="400">
+###  <img src="./images/number4.jpg" height="300" width="400">
+
 
 
 # &copy;2021 Nick Otieno.
